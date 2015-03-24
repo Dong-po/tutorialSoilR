@@ -1,2 +1,2 @@
 # tutorialSoilR
-Tutorials to run models in SoilR
+This repository contains code to learn how to use SoilR.
